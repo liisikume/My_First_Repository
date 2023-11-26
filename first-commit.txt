@@ -1,0 +1,1 @@
+Modifying the content of the file and then deleting the second line.
